@@ -1,5 +1,5 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/base.ipynb) :: or :: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/master?urlpath=notebooks/Microsoft19thCenturyBooks/base.ipynb)
 
-CTRL+Click to open in a new window; Binder: navigate to the folder "Microsoft19thCenturyBooks", open base.ipynb
+CTRL+Click to open in a new window, please. Thanks!
 
