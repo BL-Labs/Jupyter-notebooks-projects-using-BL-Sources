@@ -12,10 +12,11 @@ Jupyter Notebooks is an open-source web application that allows you to create an
 ## In this Repository (Work In Progress)
 - [Microsoft19thCenturyBooks / base.ipynb](Microsoft19thCenturyBooks/base.ipynb): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation;
 
-### Other projects using BL Collections data and Sources
+## Other projects using BL Collections data and Sources
 
 - [r-for-newspapers-data](https://github.com/yannryan-irl/r-for-newspapers-data) - The repository for the in-progress open book, 'R for Newspaper Data'. By Yann Ryan.
 
+##
 #### Explore and experiment with the British Library’s [digital collections](https://data.bl.uk/)
 
 The British Library community is able to flourish online thanks to freely available resources such as this.
