@@ -15,7 +15,7 @@ Jupyter Notebooks is an open-source web application that allows you to create an
 
 
 ## In this Repository (Work In Progress)
-- [Microsoft19thCenturyBooks / base.ipynb](Microsoft19thCenturyBooks/base.ipynb): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation;
+- [Microsoft19thCenturyBooks (base.ipynb)](Microsoft19thCenturyBooks/): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation;
 
 
 ##
