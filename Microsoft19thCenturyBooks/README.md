@@ -3,7 +3,7 @@
 
 CTRL+Click to open in a new window, please. Thanks!
 
-- [base.ipynb](base.ipynb): examples of different types of access and ways to load source data;;
+- [base.ipynb](base.ipynb): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation;
 
 
 
