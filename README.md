@@ -15,9 +15,9 @@ Jupyter Notebooks is an open-source web application that allows you to create an
 
 
 ## In this Repository (Work In Progress)
-- [Microsoft19thCenturyBooks (base.ipynb)](Microsoft19thCenturyBooks/): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation (see it on [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/base.ipynb));
+- [Microsoft19thCenturyBooks (base.ipynb)](Microsoft19thCenturyBooks/): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/base.ipynb));
 
-- [LOD_SPARQL / BNB Linked Data Platform (bnb_lod_extraction_map.ipynb)](LOD_SPARQL/bnb_lod_extraction_map.ipynb): Queries the British National Bibliography (BNB) SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [Jupyter Notebook Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/bnb_lod_extraction_map.ipynb)).
+- [LOD_SPARQL / BNB Linked Data Platform (bnb_lod_extraction_map.ipynb)](LOD_SPARQL/bnb_lod_extraction_map.ipynb): queries the British National Bibliography (BNB) SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Forked / Copied from Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/bnb_lod_extraction_map.ipynb)).
 
 ##
 #### Explore and experiment with the British Library’s [digital collections](https://data.bl.uk/)
