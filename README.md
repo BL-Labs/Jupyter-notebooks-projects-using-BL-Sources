@@ -15,13 +15,19 @@ Jupyter Notebooks is an open-source web application that allows you to create an
 
 
 ## In this Repository (Work In Progress)
-- [Microsoft19thCenturyBooks (base.ipynb)](Microsoft19thCenturyBooks/): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/base.ipynb));
+- [Microsoft 19th Century Books](Microsoft19thCenturyBooks/):
 
-- [LOD_SPARQL / BNB -- Books by Subject](LOD_SPARQL/00_BNB_SPARQL_books_by_LCSH_subject.ipynb): retrieve books' records (that have a ISBN) indexed under a given LCSH Subject / Topic (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/00_BNB_SPARQL_books_by_LCSH_subject.ipynb));
+    - [base.ipynb](Microsoft19thCenturyBooks/base.ipynb): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/base.ipynb));
 
-- [LOD_SPARQL / BNB -- Resources for Two Subjects](LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb): compare the evolution by year of the number of resources published indexed under a given LCSH Subject / Topic (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb));
+    - [load_JSON_files.ipynb](Microsoft19thCenturyBooks/base.ipynb): example how to load JSON files from a directory, or from a list of directories (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/load_JSON_files.ipynb); run it on [Binder](https://mybinder.org/v2/gh/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/master?filepath=Microsoft19thCenturyBooks/load_JSON_files.ipynb))
 
-- [LOD_SPARQL / BNB -- Linked Data / Interactive Map](LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb): queries the British National Bibliography (BNB) SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Forked / Copied from Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb)).
+- LOD_SPARQL / British National Bibliography:
+
+    - [Books by Subject](LOD_SPARQL/00_BNB_SPARQL_books_by_LCSH_subject.ipynb): retrieve books' records (that have a ISBN) indexed under a given LCSH Subject / Topic (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/00_BNB_SPARQL_books_by_LCSH_subject.ipynb));
+
+    - [Resources for Two Subjects](LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb): compare the evolution by year of the number of resources published indexed under a given LCSH Subject / Topic (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb));
+
+    - [Linked Data / Interactive Map](LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb): queries the BNB SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Forked / Copied from Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb)).
 
 ##
 #### Explore and experiment with the British Library’s [digital collections](https://data.bl.uk/)
