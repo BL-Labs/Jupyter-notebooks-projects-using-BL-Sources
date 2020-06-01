@@ -16,7 +16,7 @@ Jupyter Notebooks is an open-source web application that allows you to create an
 #### Other projects using BL Collections data and Sources
 
 - [r-for-newspapers-data](https://github.com/yannryan-irl/r-for-newspapers-data) - The repository for the in-progress open book, 'R for Newspaper Data'. By Yann Ryan.
-
+<br/>
 
 ## In this Repository (Work In Progress)
 - [Microsoft 19th Century Books](Microsoft19thCenturyBooks/):
