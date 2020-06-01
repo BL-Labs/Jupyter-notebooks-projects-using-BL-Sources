@@ -33,7 +33,8 @@ Jupyter Notebooks is an open-source web application that allows you to create an
 
     - [Linked Data / Interactive Map](LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb): queries the BNB SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Forked / Copied from Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb)).
 
-##
+<br/>
+
 #### Explore and experiment with the British Library’s [digital collections](https://data.bl.uk/)
 
 The British Library community is able to flourish online thanks to freely available resources such as this.
