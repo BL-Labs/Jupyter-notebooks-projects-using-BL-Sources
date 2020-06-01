@@ -32,9 +32,9 @@ Jupyter Notebooks is an open-source web application that allows you to create an
     - [Resources for Two Subjects](LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb): compare the evolution of published resources by year, indexed under a given LCSH Subject / Topic (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb));
 
     - [Linked Data / Interactive Map](LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb): queries the BNB SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Forked / Copied from Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb)).
-
 <br/>
 
+##
 #### Explore and experiment with the British Library’s [digital collections](https://data.bl.uk/)
 
 The British Library community is able to flourish online thanks to freely available resources such as this.
@@ -45,4 +45,3 @@ Thank you for supporting the [British Library](https://www.bl.uk/).
 
 [![The British Library](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/raw/master/wstatic/BL_EWK.png)
 ![The British Library Buildings Closed But Always Open Online to Everyone](https://github.com/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/raw/master/wstatic/BL_CoronaV19_OpenOnline.jpg)](https://www.bl.uk/)
-
