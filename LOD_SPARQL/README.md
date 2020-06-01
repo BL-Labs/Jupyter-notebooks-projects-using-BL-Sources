@@ -11,6 +11,5 @@
 - [Linked Data / Interactive Map](LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb): queries the BNB SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Forked / Copied from Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb)).
  
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/master?filepath=LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb) __ without outputs / not run:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/not_run/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/master?filepath=LOD_SPARQL/not_run/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb)
-    
-    
-CTRL+Click to open links in a new window. Thanks!
+
+    CTRL+Click to open links in a new window. Thanks!
