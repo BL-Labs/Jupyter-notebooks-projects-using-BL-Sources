@@ -1,4 +1,4 @@
-# Jupyter Notebooks using the British Library’s Digital Collections / Data
+# Jupyter Notebooks using<br/> the British Library’s Digital Collections / Data
 
 A Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
