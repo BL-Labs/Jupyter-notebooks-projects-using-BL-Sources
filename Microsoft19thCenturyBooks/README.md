@@ -1,4 +1,4 @@
-## Microsoft Books/BL 19th Century collection
+## Microsoft Books/BL 19th Century Books collection
 <br/>
 
 - [base.ipynb](base.ipynb): examples of different types of access and ways to load source data from The British Library Collections; includes some basic processing and visualisation (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/base.ipynb))
