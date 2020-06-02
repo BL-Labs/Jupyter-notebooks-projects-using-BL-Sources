@@ -2,7 +2,7 @@
 
 A [Jupyter Notebook](https://www.youtube.com/watch?v=HW29067qVWk) is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
-A list of Jupyter Notebook' projects using BL's digital collections / data is available below:
+A list of [Jupyter Notebook](https://jupyter.org/)' projects using BL's digital collections / data is available below:
 
 - [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS2019) as taught at DHOxSS 2019 (Oxford DH Summer School 2019): covers tidying data, visualization, modeling, and advanced applications of data analysis. By Giovanni Colavizza and Matteo Romanello (run them on [Binder](https://mybinder.org/v2/gh/mromanello/ADA-DHOxSS2019/master));
 
