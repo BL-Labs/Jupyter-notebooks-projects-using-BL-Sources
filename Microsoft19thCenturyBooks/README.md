@@ -16,6 +16,6 @@
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/maps_from_Flickr_BLPhotos_19cBooks_Collection.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/master?filepath=Microsoft19thCenturyBooks/maps_from_Flickr_BLPhotos_19cBooks_Collection.ipynb) __ without outputs / not run:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/Microsoft19thCenturyBooks/maps_from_Flickr_BLPhotos_19cBooks_Collection_Clean_Output.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/master?filepath=Microsoft19thCenturyBooks/maps_from_Flickr_BLPhotos_19cBooks_Collection_Clean_Output.ipynb)
   
 
-<br/>
+<br/> 
 
   CTRL+Click to open links in a new window. Thanks!
