@@ -15,6 +15,8 @@ A list of Jupyter Notebook' projects using BL's digital collections / data is av
 
 - [GLAM Workbench: Web Archives](https://github.com/GLAM-Workbench/web-archives/): collection of Jupyter notebooks that document web archive data sources and standards, and walk through methods of harvesting, analysing, and visualising that data. To see which Notebooks work with UKWA (UK Web Archive), please consult the *Web Archives* entry at the [GLAM Workbench](https://glam-workbench.github.io/web-archives/) site. By [Tim Sherratt](https://www.timsherratt.org/), "historian and hacker", Associate Professor of Digital Heritage at the University of Canberra, Australia.
 
+- [British Library FREYA Persistent Identifier case study](https://gitlab.com/bl-data-services/bl-freya-pid-case-study): a simple notebook demonstrating how to fetch information about British Library DOIs from the [DataCite GraphQL API](https://support.datacite.org/docs/datacite-graphql-api-guide) and summarise this using Python; this work was done as part of the [EU-funded FREYA project](https://www.project-freya.eu/en) ([run it on Binder](https://mybinder.org/v2/gl/bl-data-services%2Fbl-freya-pid-case-study/main?filepath=british-library-dois.ipynb))
+
 #### Other projects using BL Collections data and Sources
 
 - [r-for-newspapers-data](https://github.com/yannryan-irl/r-for-newspapers-data) - The repository for the in-progress open book, 'R for Newspaper Data'. By [Yann Ryan](https://livingwithmachines.ac.uk/introducing-yann-ryan/), former Newspaper Curator for the British Library.
