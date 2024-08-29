@@ -17,7 +17,7 @@ A list of Jupyter Notebook' projects using BL's digital collections / data is av
 
 - [British Library FREYA Persistent Identifier case study](https://gitlab.com/bl-data-services/bl-freya-pid-case-study): a simple notebook demonstrating how to fetch information about British Library DOIs from the [DataCite GraphQL API](https://support.datacite.org/docs/datacite-graphql-api-guide) and summarise this using Python; this work was done as part of the [EU-funded FREYA project](https://www.project-freya.eu/en) ([run it on Binder](https://mybinder.org/v2/gl/bl-data-services%2Fbl-freya-pid-case-study/main?filepath=british-library-dois.ipynb))
 
-#### Other projects using BL Collections data and Sources
+
 
 - [r-for-newspapers-data](https://github.com/yannryan-irl/r-for-newspapers-data) - The repository for the in-progress open book, 'R for Newspaper Data'. By [Yann Ryan](https://livingwithmachines.ac.uk/introducing-yann-ryan/), former Newspaper Curator for the British Library.
 <br/>
@@ -38,6 +38,11 @@ A list of Jupyter Notebook' projects using BL's digital collections / data is av
     - [Resources for Two Subjects](LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb): compare the evolution of published resources by year, indexed under a given LCSH Subject / Topic (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/01_BNB_SPARQL_Compare_Publication_Year_for_two_Subjects.ipynb));
 
     - [Linked Data / Interactive Map](LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb): queries the BNB SPARQL EndPoint, and enriches the results with Linked Open Data from Geonames and WikiData to display the places of publication in an interactive map. Forked / Copied from Author: Gustavo Candela (https://github.com/hibernator11), Research and Development department at The Biblioteca Virtual Miguel de Cervantes, University of Alicante, Spain (see it on [JN Viewer](https://nbviewer.jupyter.org/github/BL-Labs/Jupyter-notebooks-projects-using-BL-Sources/blob/master/LOD_SPARQL/02_BNB_SPARQL_LOD_Extraction_Interactive_Map.ipynb)).
+
+- [BL Newspapers Title list to maps] - a notebook to plot the BL newspaper titles catalogue onto a map
+   
+#### Other projects using BL Collections data and Sources
+
 <br/>
 
 ##
